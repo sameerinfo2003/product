@@ -1,5 +1,4 @@
 import * as React from "react";
-import { initialProducts } from "./initialProducts";
 
 export interface IState {
    products: IProduct[];
